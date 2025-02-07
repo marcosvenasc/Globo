@@ -1,0 +1,31 @@
+Passo a Passo para Utilização da Aplicação
+1 - Acessar a Aplicação:
+
+  - Abra seu navegador e acesse:  http://localhost:3000.
+
+2- Inserir uma URL do YouTube no campo de texto superior:
+
+ - Digite ou cole a URL do vídeo do YouTube que você deseja adicionar.
+ - Pode adicionar quantas URLs de vídeos do YouTube desejar. Cada nova URL será listada na seção "Lista de URLs".
+
+2.1 - Clique no botão "Adicionar".
+
+3 - Visualizar a Lista de URLs Salvas:
+
+  Abaixo do texto "Lista de URLs".As URLs que você adicionou serão exibidas aqui com seus títulos (Automaticamente) .
+
+4 - Reproduzir um Vídeo:
+
+- Na lista de URLs, cada item terá dois ícones: um ícone de "play" e um ícone de "Excluir".
+
+4.1 - Clique no ícone de "play" ao lado da URL que você deseja reproduzir.
+
+ - O vídeo do YouTube começará a ser reproduzido no quadro de visualização na parte superior da página.
+
+5 - Excluir uma URL:
+
+ - Para remover uma URL da lista, clique no ícone de "Excluir" ao lado da URL que você deseja excluir.
+
+- Uma mensagem de confirmação aparecerá perguntando se você realmente deseja deletar a URL.
+
+ - Confirme a exclusão para remover a URL da lista.
